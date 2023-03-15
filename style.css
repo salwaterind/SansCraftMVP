@@ -1,0 +1,49 @@
+*,
+html{
+    margin: auto;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-navbar{
+    text-align: center;
+    text-decoration: none;
+    width: auto;
+    height: 100px;
+    background-image: url(gambar/backgound-1.png);
+}
+
+.ul-navbar{
+    padding-top: 30px;
+}
+
+.li-navbar{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid white;
+    background-color: black;
+    list-style-type: none;
+    padding: 4px;
+    margin: 2px;
+    color: white;
+    width: 10%;
+}
+
+.container-conten{
+    padding-top: 10px;
+    text-align: center;
+    background-color: rgb(66, 62, 62);
+    color: white;
+}
+
+.judul{
+    text-align: left;
+}
+
+.isi1{
+    padding-top: 50px;
+}
+
+.container-footer{
+    
+}
